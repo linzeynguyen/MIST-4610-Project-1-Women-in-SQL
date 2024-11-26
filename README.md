@@ -1,1 +1,1 @@
-# MIST-4610-Project-2-Women-in-SQL
+# MIST-4610-Project-1-Women-in-SQL
